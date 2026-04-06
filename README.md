@@ -56,9 +56,10 @@ I’m a passionate **Frontend Developer** with experience in building modern, re
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaniyaRajpura&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaRajpura&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaniyaRajpura&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaRajpura&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
